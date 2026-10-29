@@ -1,0 +1,145 @@
+[
+  {
+    "id": "spot-913f50df-1c3e-4aaf-9b19-24868eb07423",
+    "name": "Spot Tanjakan Baturraden",
+    "quote": "Jalan menanjak dengan udara sejuk Gunung Slamet.",
+    "latitude": -7.315,
+    "longitude": 109.228,
+    "photo_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600",
+    "photos": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600"
+    ],
+    "photographer_name": "Pesepeda Anonim",
+    "captured_at": "2026-10-28T16:29:14.353Z",
+    "created_at": "2026-10-28T16:29:14.353Z",
+    "likes_count": 0,
+    "status": "published"
+  },
+  {
+    "id": "spot-9e2d9285-ec9f-4fd6-89be-c2093399fe1b",
+    "name": "Bukit Paralayang Parangtritis",
+    "quote": "Melihat garis pantai Samudera Hindia dari puncak bukit.",
+    "latitude": -8.032,
+    "longitude": 110.339,
+    "photo_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600",
+    "photos": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600",
+      "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?w=600",
+      "https://images.unsplash.com/photo-1474962558142-9ca83af74bb7?w=600"
+    ],
+    "photographer_name": "Pesepeda Anonim",
+    "captured_at": "2026-10-28T15:40:30.844Z",
+    "created_at": "2026-10-28T15:40:30.844Z",
+    "likes_count": 0,
+    "status": "published"
+  },
+  {
+    "id": "spot-majenang-01",
+    "name": "Jalan Hijau Majenang",
+    "description": "Jalur beraspal mulus di antara hamparan sawah dan pepohonan rindang.",
+    "quote": "Kadang perjalanan terbaik bukan soal seberapa jauh kita pergi.",
+    "latitude": -7.2974,
+    "longitude": 108.7618,
+    "photo_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=800&q=80",
+    "photos": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1474962558142-9ca83af74bb7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "photographer_name": "Budi Kurnia",
+    "captured_at": "2026-10-20T06:42:00+07:00",
+    "created_at": "2026-10-20T06:45:00Z",
+    "likes_count": 38,
+    "status": "published"
+  },
+  {
+    "id": "spot-sermo-02",
+    "name": "Tepian Waduk Sermo",
+    "description": "Jalan aspal lingkar waduk dengan udara sejuk pagi hari.",
+    "quote": "Menikmati hembusan angin sejuk dan ketenangan danau saat matahari baru terbit.",
+    "latitude": -7.8285,
+    "longitude": 110.1245,
+    "photo_url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&w=800&q=80",
+    "photos": [
+      "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "photographer_name": "Dimas Prasetyo",
+    "captured_at": "2026-10-22T05:50:00+07:00",
+    "created_at": "2026-10-22T06:00:00Z",
+    "likes_count": 29,
+    "status": "published"
+  },
+  {
+    "id": "spot-selarong-03",
+    "name": "Tanjakan Selarong",
+    "description": "Tanjakan favorit pesepeda dengan kemiringan yang menantang stamina.",
+    "quote": "Nafas terengah di tanjakan, tetapi pemandangan di atas membayar semua lelah.",
+    "latitude": -7.8812,
+    "longitude": 110.3341,
+    "photo_url": "https://images.unsplash.com/photo-1474962558142-9ca83af74bb7?auto=format&fit=crop&w=800&q=80",
+    "photos": [
+      "https://images.unsplash.com/photo-1474962558142-9ca83af74bb7?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "photographer_name": "Rian Pratama",
+    "captured_at": "2026-10-24T06:15:00+07:00",
+    "created_at": "2026-10-24T06:30:00Z",
+    "likes_count": 45,
+    "status": "published"
+  },
+  {
+    "id": "spot-plaosan-04",
+    "name": "Jalur Sawah Candi Plaosan",
+    "description": "Rute gowes jalan desa dengan pemandangan latar candi kuno.",
+    "quote": "Gowes santai di akhir pekan melewati petani yang sedang merawat padi.",
+    "latitude": -7.7428,
+    "longitude": 110.5058,
+    "photo_url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=800&q=80",
+    "photos": [
+      "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "photographer_name": "Siti Rahma",
+    "captured_at": "2026-10-25T07:10:00+07:00",
+    "created_at": "2026-10-25T07:20:00Z",
+    "likes_count": 31,
+    "status": "published"
+  },
+  {
+    "id": "spot-nglinggo-05",
+    "name": "Rute Kebun Teh Nglinggo",
+    "description": "Jalur perbukitan Menoreh dengan hamparan kebun teh berkabut.",
+    "quote": "Kabut tipis menyambut roda sepeda di ketinggian sembilan ratus meter.",
+    "latitude": -7.6433,
+    "longitude": 110.1472,
+    "photo_url": "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?auto=format&fit=crop&w=800&q=80",
+    "photos": [
+      "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1474962558142-9ca83af74bb7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "photographer_name": "Andra Wijaya",
+    "captured_at": "2026-10-26T06:30:00+07:00",
+    "created_at": "2026-10-26T07:00:00Z",
+    "likes_count": 52,
+    "status": "published"
+  },
+  {
+    "id": "spot-sudirman-06",
+    "name": "Rute Pagi Sudirman",
+    "description": "Jalur sepeda perkotaan dengan jalan lebar pada hari bebas kendaraan.",
+    "quote": "Suasana pagi kota yang lengang sebelum kesibukan hari kerja dimulai.",
+    "latitude": -6.2146,
+    "longitude": 106.8219,
+    "photo_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=800&q=80",
+    "photos": [
+      "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "photographer_name": "Kiki Ramadhan",
+    "captured_at": "2026-10-27T06:00:00+07:00",
+    "created_at": "2026-10-27T06:10:00Z",
+    "likes_count": 24,
+    "status": "published"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "GowesMap - Peta Komunitas Pesepeda",
+  "description": "Peta publik untuk berbagi foto lokasi dan cerita perjalanan bersepeda.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
